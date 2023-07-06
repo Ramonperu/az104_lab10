@@ -146,13 +146,5 @@ Comprobamos que el archivo vuelve a encontrarse en su ubicacion
 
 <img src="/img/21ºimagenn.png" alt="10ºimagenn" style="zoom:80%;" />
 
-### TASK 6:
 
-------
-
-
-
-### TASK 7:
-
-------
 
